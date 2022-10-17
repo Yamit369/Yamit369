@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Yamit369
-- 👀 I’m interested in in learning wed designe and one day maybe backend 
-- 🌱 I’m currently learning Html, CSS and Js also I study Linux and Python
-- 💞️ I’m looking to collaborate on creation of web designes 
-- 📫 How to reach me to my email: dreiko200590@hotmail.com
+- 👀 I’m interested in in learning backend, and cyber security.
+- 🌱 I’m currently learning y Linux and Python.
+- * I have good understanding of HTML, CSS - Booststrap, and JS.
+- 💞️ I’m looking to learn more about networks and internet protocols.  
+- 📫 How to reach me to my email: jpabon369@yahoo.com
 
 <!---
 Yamit369/Yamit369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
